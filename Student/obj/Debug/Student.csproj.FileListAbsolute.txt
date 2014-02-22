@@ -1,0 +1,3 @@
+C:\Users\offic_000\Dropbox\TelerikAcademy\OOP\OOPHW6\Student\bin\Debug\Student.exe.config
+C:\Users\offic_000\Dropbox\TelerikAcademy\OOP\OOPHW6\Student\obj\Debug\Student.exe
+C:\Users\offic_000\Dropbox\TelerikAcademy\OOP\OOPHW6\Student\obj\Debug\Student.pdb
