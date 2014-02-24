@@ -1,0 +1,6 @@
+C:\Users\Misho\Dropbox\TelerikAcademy\OOP\OOPHW6\Person\bin\Debug\Person.exe.config
+C:\Users\Misho\Dropbox\TelerikAcademy\OOP\OOPHW6\Person\bin\Debug\Person.exe
+C:\Users\Misho\Dropbox\TelerikAcademy\OOP\OOPHW6\Person\bin\Debug\Person.pdb
+C:\Users\Misho\Dropbox\TelerikAcademy\OOP\OOPHW6\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Dropbox\TelerikAcademy\OOP\OOPHW6\Person\obj\Debug\Person.exe
+C:\Users\Misho\Dropbox\TelerikAcademy\OOP\OOPHW6\Person\obj\Debug\Person.pdb
